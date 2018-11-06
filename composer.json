@@ -1,0 +1,35 @@
+{
+  "name": "Aderemi/MultipleRows",
+  "version" : "1.0.0",
+  "description": "Laravel Multiple row operations with XML, JSON, CSV or plan text",
+  "license": "MIT",
+  "homepage": "https://softroleum.com",
+  "keywords": ["laravel", "batch process", "multiple process", "database"],
+  "authors": [
+    {
+      "name": "Aderemi Dayo",
+      "email": "aderemi.dayo.o@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "illuminate/support": "^5.2",
+    "illuminate/database": "^5.2",
+    "illuminate/filesystem": "^5.2",
+    "illuminate/console": "^5.2",
+    "illuminate/mail" : "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "MultipleRows\\": "./"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MultipleRows\\Library\\Tests\\": "Tests/"
+    }
+  },
+  "require-dev": {
+    "codeception/codeception": "^2.3"
+  }
+}

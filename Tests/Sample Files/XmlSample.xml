@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <body>
+        <item>
+            <value>TEST001</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 001 ml</value>
+            <value>health &amp; wellness</value>
+            <value>deodorants &amp; body sprays</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+        <item>
+            <value>TEST002</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 002 ml</value>
+            <value>trueCat</value>
+            <value>testSubCat</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+        <item>
+            <value>TEST003</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 003 ml</value>
+            <value>testCat1</value>
+            <value>testSubCat</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+        <item>
+            <value>TEST004</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 004 ml</value>
+            <value>testCat1</value>
+            <value>testSubCat</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+        <item>
+            <value>TEST005</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 005 ml</value>
+            <value>true product</value>
+            <value>deodorants &amp; body sprays</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+        <item>
+            <value>TEST006</value>
+            <value>Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 006 ml</value>
+            <value>toiletries</value>
+            <value>deodorants &amp; body sprays</value>
+            <value />
+            <value>Nedens</value>
+            <value>48</value>
+            <value>Active</value>
+            <value>1000</value>
+            <value>deodorants &amp; body sprays Deodorant Spray</value>
+        </item>
+    </body>
+    <header>
+        <value>product_sku</value>
+        <value>name</value>
+        <value>category#1</value>
+        <value>category#2</value>
+        <value>sub_category</value>
+        <value>brand_name</value>
+        <value>discount</value>
+        <value>status</value>
+        <value>price</value>
+        <value>page_title</value>
+    </header>
+</products>

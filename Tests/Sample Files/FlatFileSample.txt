@@ -1,0 +1,7 @@
+product_sku	name	category#1	category#2	sub_category	brand_name	discount	status	price	page_title
+TEST001	Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 001 ml	health & wellness	deodorants & body sprays		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
+TEST002	Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 002 ml	trueCat	testSubCat		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
+TEST003	Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 003 ml	testCat1	testSubCat		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
+TEST004	Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 004 ml	testCat1	testSubCat		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
+TEST005	Test Anti Transpirant Deodorant Spray Original Doit Fresh Green 005 ml	true product	deodorants & body sprays		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
+TEST006	Test Anti Transpirant Deodorant Spray Original Doit Fresh Pink 006 ml	toiletries	deodorants & body sprays		Nedens	48	Active	1000	deodorants & body sprays - Deodorant - Spray
