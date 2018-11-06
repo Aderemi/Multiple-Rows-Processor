@@ -1,7 +1,7 @@
-# Laravel CSV Sheet Processor
+# Laravel Multiple Row Processor
 
-Laravel CSV Sheet Processor is a package for Laravel 5 which is used to manage multiple record processing at database level through CSV files. 
-This makes applications with multiple uploads through CSV much easier to maintain.
+Laravel Multiple Row Processor is a package for Laravel which is used to manage multiple record processing at database level through CSV files. 
+This makes applications with multiple uploads through CSV, XML, JSON and Flat Text File much easier to maintain.
 
 ## Installation
 
@@ -9,13 +9,13 @@ Run the following command from you terminal:
 
 
  ```bash
- composer require "supermart_nigeria/library: @dev"
+ composer require "Aderemi/Multiple-Rows-Processor: ^1.0.0"
  ```
 
 or add this to require section in your composer.json file:
 
  ```
- "supermart_nigeria/library": "@dev"
+ "Aderemi/Multiple-Rows-Processor: ^1.0.0"
  ```
 
 then run ```composer update```
