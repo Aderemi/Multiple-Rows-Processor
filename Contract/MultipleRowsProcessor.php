@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Aderemi Dayo<dayo.aderemi@supermartng.com>
+ * User: Aderemi Dayo<aderemi.dayo.o@gmail.com>
  * Date: 30/03/2018
  * Time: 8:03 PM
  */
