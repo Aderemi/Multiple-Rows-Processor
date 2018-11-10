@@ -1,5 +1,5 @@
 {
-  "name": "Aderemi/Multiple-Rows-Processor",
+  "name": "aderemi/multiple-rows-processor",
   "version" : "1.0.0",
   "description": "Laravel Multiple row operations with XML, JSON, CSV or plan text",
   "license": "MIT",
